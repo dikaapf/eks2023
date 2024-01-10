@@ -17,7 +17,7 @@
 	<form action="" method="post" name="fl" id="f_login" onsubmit="return login();">
 		
 		<div class="panel panel-default top150">
-		<center><img src="https://edukarircenter.com/wp-content/uploads/2023/12/cropped-edukarir-web-icon.png" alt="Edu Karir Center" width="300" height="70"></center>
+		<center><img src="https://edukarircenter.com/wp-content/uploads/2024/01/cropped-4.png" alt="Edu Karir Center" width="300" height="70"></center>
 			<div class="panel-heading"><h4 style="margin: 5px"><i class="glyphicon glyphicon-user"></i> Login Aplikasi</h4></div>
 			<div class="panel-body">
 				<div id="konfirmasi"></div>
