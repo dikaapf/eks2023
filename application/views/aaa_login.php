@@ -8,6 +8,15 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <link href="<?php echo base_url(); ?>___/css/bootstrap.css" rel="stylesheet">
 <link href="<?php echo base_url(); ?>___/css/style.css" rel="stylesheet">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3ZKK9JPXS9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3ZKK9JPXS9');
+</script>
 </head>
 <body>
 
